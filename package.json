@@ -1,0 +1,33 @@
+{
+  "name": "studios-silly-graphics",
+  "version": "1.0.0",
+  "description": "Design agency archive.",
+  "main": "gulpfile.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jckfa/silly.graphics.git"
+  },
+  "author": "Jack Halten Fahnestock",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jckfa/silly.graphics/issues"
+  },
+  "homepage": "https://github.com/jckfa/silly.graphics#readme",
+  "devDependencies": {
+    "browser-sync": "*",
+    "gulp": "*",
+    "gulp-autoprefixer": "*",
+    "gulp-cssnano": "*",
+    "gulp-gzip": "*",
+    "gulp-html-minifier": "*",
+    "gulp-htmlmin": "*",
+    "gulp-postcss": "*",
+    "gulp-shell": "*",
+    "postcss-cssnext": "*",
+    "postcss-import": "*"
+  },
+  "browserslist": [
+    "> 1%",
+    "last 2 versions"
+  ]
+}

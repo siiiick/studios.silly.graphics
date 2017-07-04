@@ -1,0 +1,15 @@
+{%- assign countries = site.data.index.countries -%}
+
+<!-- BRITTLE CODE——CHANGES ON NUMBER OF PAGES -->
+<!-- {%- for country in countries -%}
+  {%- for city in country.cities -%}
+    {%- for agency in city.agencies -%}
+      {%- increment agency_count -%}
+    {%- endfor -%}
+  {%- endfor -%}
+{%- endfor -%} -->
+
+<header class="site__header wrapper">
+  <div>{{ site.title }}</div>
+  <p>{{ countries | size }} countries, {{ agency_count | divided_by: 2}} agencies</p>
+</header>

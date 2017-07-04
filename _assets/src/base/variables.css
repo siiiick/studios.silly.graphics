@@ -1,0 +1,29 @@
+
+:root {
+  --foreground: #444;
+  --meta: #999;
+  --highlight: blue;
+
+  --hover-off:      cubic-bezier(0.1, 1, 0.15, 1);
+  --hover-on:       cubic-bezier(0.85, 0, 0.9, 0);
+  --simple-fade:    ease-in-out;
+
+  --fs:             1.375rem; /* 22px */
+  --lh:             1.625rem; /* 26px */
+
+  --gutter:         0.25em;
+  --target-area:    0.8em;
+
+  --sans:  "mallory-book",
+           BlinkMacSystemFont,
+           -apple-system,
+           "roboto",
+           arial,
+           sans-serif;
+}
+
+@custom-media --w-20  screen and (width >= 20rem);
+@custom-media --w-50  screen and (width >= 50rem);
+@custom-media --w-100 screen and (width >= 100rem);
+
+@custom-media --w-l-50 screen and (width < 50rem);

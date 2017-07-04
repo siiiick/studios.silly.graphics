@@ -1,0 +1,40 @@
+---
+layout: default
+permalink: /
+---
+
+{%- assign countries = site.data.index.countries | sort: "name" -%}
+
+<ul class="countries">
+  {%- for country in countries -%}
+  {%- assign cities = country.cities -%}
+  <li class="country">
+    <div class="country-name">
+      {{ country.flag }} {{ country.name }} {{ country.flag }}
+    </div>
+
+    <ul class="cities">
+      {%- for city in cities -%}
+      {%- assign agencies = city.agencies | uniq | sort: "n" -%}
+      <li class="city">
+        <div class="city-name small">{{ city.name }}</div>
+
+        <ul class="agencies">
+          {%- for agency in agencies -%}
+          <li class="agency">
+            <div class="agency-name">
+              <a href="{{ agency.w }}" target="_blank">
+                {{ agency.n }}
+              </a>
+            </div>
+          </li>
+          {%- endfor -%}
+        </ul>
+
+      </li>
+      {%- endfor -%}
+    </ul>
+
+  </li>
+  {%- endfor -%}
+</ul>

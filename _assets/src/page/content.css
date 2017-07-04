@@ -1,0 +1,26 @@
+
+main {
+  border-top: 2px solid currentColor;
+  border-bottom: 2px solid currentColor;
+}
+
+  .country {
+    padding: 2em 0;
+  }
+
+  .country + .country {
+    border-top: 2px solid currentColor;
+  }
+
+    .city::before {
+      content: "|";
+    }
+
+      .agency {
+        color: var(--foreground);
+      }
+
+        /*.agency a::before,
+        .agency a::after {
+          content: "•";
+        }*/

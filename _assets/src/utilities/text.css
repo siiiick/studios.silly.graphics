@@ -1,0 +1,20 @@
+
+.center {
+  text-align: center;
+}
+
+.uppercase {
+  text-transform: uppercase;
+}
+
+.lowercase {
+  text-transform: lowercase;
+}
+
+.tabular {
+  font-variant-numeric: tabular-nums;
+}
+
+.small {
+  font-variant: small-caps;
+}

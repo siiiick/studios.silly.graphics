@@ -1,0 +1,157 @@
+countries:
+- name: Belgium
+  flag: 🇧🇪
+  cities:
+  - name: Ghent
+    agencies:
+    - n: Studio Studio
+      w: http://studiostudio.be/
+
+- name: Canada
+  flag: 🇨🇦
+  cities:
+  - name: Montreal
+    agencies:
+    - n: Bureau Principal
+      w: http://www.bureau-principal.com/
+
+- name: Denmark
+  flag: 🇩🇰
+  cities:
+  - name: Copenhagen
+    agencies:
+    - n: Studio Claus Due
+      w: http://studioclausdue.dk/
+
+- name: France
+  flag: 🇫🇷
+  cities:
+  - name: Paris
+    agencies:
+    - n: b.a-ba
+      w: http://www.b-a-ba.works/
+    - n: Building Paris
+      w: http://www.buildingparis.fr/
+
+  - name: Lyon
+    agencies:
+    - n: Catalogue
+      w: http://www.cataloguestudio.fr/
+
+- name: Germany
+  flag: 🇩🇪
+  cities:
+  - name: Berlin
+    agencies:
+    - n: Hort
+      w: http://hort.org.uk
+    - n: Pentagram
+      w: http://pentagram.com
+    - n: Haw-lin Services
+      w: http://haw-lin-services.com/
+    - n: arc
+      w: http://arc-gestaltung.de/
+    - n: Büro Bum Bum
+      w: http://buerobumbum.com/
+
+  - name: Leipzig
+    agencies:
+    - n: arc
+      w: http://arc-gestaltung.de/
+
+  - name: Munich
+    agencies:
+    - n: Bureau Borsche
+      w: http://bureauborsche.com/
+    - n: Daily Dialogue
+      w: http://dailydialogue.cc/
+
+- name: United Kingdom
+  flag: 🇬🇧
+  cities:
+  - name: London
+    agencies:
+    - n: Pentagram
+      w: http://pentagram.com
+    - n: A Practice for Everyday Life
+      w: http://apracticeforeverydaylife.com/
+
+- name: United States
+  flag: 🇺🇸
+  cities:
+  - name: San Francisco, CA
+    agencies:
+    - n: Pentagram
+      w: http://pentagram.com
+
+  - name: New York, NY
+    agencies:
+    - n: Pentagram
+      w: http://pentagram.com
+    - n: Common Name
+      w: http://common-name.com/
+
+  - name: Brooklyn, NY
+    agencies:
+    - n: DIA
+      w: http://dia.tv/
+
+  - name: Portland, OR
+    agencies:
+    - n: Fuzzco
+      w: http://fuzzco.com
+
+  - name: Charleston, SC
+    agencies:
+    - n: Fuzzco
+      w: http://fuzzco.com
+
+  - name: Austin, TX
+    agencies:
+    - n: Pentagram
+      w: http://pentagram.com
+
+  - name: Provo, UT
+    agencies:
+    - n: Actual Source
+      w: https://actualsource.work
+
+- name: South Korea
+  flag: 🇰🇷
+  cities:
+  - name: Seoul
+    agencies:
+    - n: Corners
+      w: http://corners.kr/
+
+- name: Spain
+  flag: 🇪🇸
+  cities:
+  - name: Barcelona
+    agencies:
+    - n: Clase
+      w: https://clasebcn.com
+
+- name: Switzerland
+  flag: 🇨🇭
+  cities:
+  - name: Zürich
+    agencies:
+    - n: Afrika
+      w: http://afrika.to/
+    - n: Atlas Studio
+      w: https://www.atlasstudio.ch
+    - n: Badesaison
+      w: http://www.badesaison.ch/
+
+  - name: St. Gallen
+    agencies:
+    - n: Bänziger Hug
+      w: http://www.baenziger-hug.com/
+    - n: Bureau Collective
+      w: http://www.bureaucollective.ch/
+
+  - name: Basel
+    agencies:
+    - n: Claudiabasel
+      w: http://claudiabasel.ch/

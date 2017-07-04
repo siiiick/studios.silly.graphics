@@ -1,0 +1,26 @@
+
+title: Design Agency Archive
+email: buttface@jackf.me
+description: An archive of design agencies/studios/firms.
+url: https://agencies.silly.graphics
+timezone: Etc/UTC
+
+markdown: kramdown
+permalink: pretty
+
+exclude:
+  - node_modules
+  - gulpfile.js
+  - package*
+  - README.md
+  - Gemfile
+  - LICENSE.txt
+  - .gitignore
+  - graphics
+
+assets:
+  # digest: true
+  # cache: false
+  sources:
+    - "_assets/css"
+    - "_assets/js"

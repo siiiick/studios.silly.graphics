@@ -1,0 +1,21 @@
+
+.ib {
+  display: inline-block;
+}
+
+.w50 {
+  width: 50%;
+  vertical-align: top;
+}
+
+@media (--w-l-50) {
+  .desktop {
+    display: none;
+  }
+}
+
+@media (--w-50) {
+  .mobile {
+    display: none;
+  }
+}
