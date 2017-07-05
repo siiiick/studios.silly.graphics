@@ -1,4 +1,16 @@
 countries:
+- name: Australia
+  flag: 🇦🇺
+  cities:
+  - name: Melbourne
+    agencies:
+    - n: Public Office
+      w: https://public-office.info/
+    - n: io
+      w: http://studio-io.com/
+
+
+
 - name: Belgium
   flag: 🇧🇪
   cities:
@@ -6,6 +18,8 @@ countries:
     agencies:
     - n: Studio Studio
       w: http://studiostudio.be/
+
+
 
 - name: Canada
   flag: 🇨🇦
@@ -15,6 +29,8 @@ countries:
     - n: Bureau Principal
       w: http://www.bureau-principal.com/
 
+
+
 - name: Denmark
   flag: 🇩🇰
   cities:
@@ -22,6 +38,8 @@ countries:
     agencies:
     - n: Studio Claus Due
       w: http://studioclausdue.dk/
+
+
 
 - name: France
   flag: 🇫🇷
@@ -32,11 +50,17 @@ countries:
       w: http://www.b-a-ba.works/
     - n: Building Paris
       w: http://www.buildingparis.fr/
+    - n: Large Projects
+      w: https://large.la
+    - n: My name is
+      w: http://mynameis.fr/
 
   - name: Lyon
     agencies:
     - n: Catalogue
       w: http://www.cataloguestudio.fr/
+
+
 
 - name: Germany
   flag: 🇩🇪
@@ -53,11 +77,22 @@ countries:
       w: http://arc-gestaltung.de/
     - n: Büro Bum Bum
       w: http://buerobumbum.com/
+    - n: HelloMe
+      w: http://hellome.studio/
+    - n: Hubert & Fischer
+      w: http://hubertfischer.com/
+    - n: Modem studio
+      w: http://www.modem.ws/
+    - n: Node
+      w: http://nodeberlin.com/
+      i: yes
 
   - name: Leipzig
     agencies:
     - n: arc
       w: http://arc-gestaltung.de/
+    - n: Lamm & Kirch
+      w: http://lamm-kirch.com/
 
   - name: Munich
     agencies:
@@ -65,6 +100,30 @@ countries:
       w: http://bureauborsche.com/
     - n: Daily Dialogue
       w: http://dailydialogue.cc/
+    - n: Moby Digg
+      w: http://www.mobydigg.de/
+      i: yes
+
+
+
+- name: Netherlands
+  flag: 🇳🇱
+  cities:
+  - name: Amsterdam
+    agencies:
+    - n: Harris Blondman
+      w: http://www.harrisblondman.nl/
+    - n: Metahaven
+      h: http://metahaven.net/
+
+- name: Norway
+  flag: 🇳🇴
+  cities:
+  - name: Oslo
+    agencies:
+    - n: Node
+      w: http://nodeberlin.com/
+      i: yes
 
 - name: United Kingdom
   flag: 🇬🇧
@@ -75,6 +134,17 @@ countries:
       w: http://pentagram.com
     - n: A Practice for Everyday Life
       w: http://apracticeforeverydaylife.com/
+    - n: Fraser Muggeridge studio
+      w: http://pleasedonotbend.co.uk/
+    - n: Wieden+Kennedy
+      w: http://wklondon.com/
+
+  - name: Leads
+    agencies:
+    - n: Hungry Sandwich Club
+      w: http://hungrysandwich.club/
+
+
 
 - name: United States
   flag: 🇺🇸
@@ -90,6 +160,8 @@ countries:
       w: http://pentagram.com
     - n: Common Name
       w: http://common-name.com/
+    - n: Hubert & Fischer
+      w: http://hubertfischer.com/
 
   - name: Brooklyn, NY
     agencies:
@@ -116,6 +188,8 @@ countries:
     - n: Actual Source
       w: https://actualsource.work
 
+
+
 - name: South Korea
   flag: 🇰🇷
   cities:
@@ -123,6 +197,8 @@ countries:
     agencies:
     - n: Corners
       w: http://corners.kr/
+
+
 
 - name: Spain
   flag: 🇪🇸
@@ -132,10 +208,17 @@ countries:
     - n: Clase
       w: https://clasebcn.com
 
+  - name: Madrid
+    agencies:
+    - n: Koln Studio
+      w: http://kolnstudio.com/
+
+
+
 - name: Switzerland
   flag: 🇨🇭
   cities:
-  - name: Zürich
+  - name: Zurich
     agencies:
     - n: Afrika
       w: http://afrika.to/
@@ -143,6 +226,10 @@ countries:
       w: https://www.atlasstudio.ch
     - n: Badesaison
       w: http://www.badesaison.ch/
+    - n: Offshore Studio
+      w: http://www.offshorestudio.ch/
+    - n: Hubertus Design
+      w: http://hubertus-design.ch/
 
   - name: St. Gallen
     agencies:
@@ -150,6 +237,8 @@ countries:
       w: http://www.baenziger-hug.com/
     - n: Bureau Collective
       w: http://www.bureaucollective.ch/
+    - n: Die Gestalter
+      w: http://www.gestalter.ch/
 
   - name: Basel
     agencies:

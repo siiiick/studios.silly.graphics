@@ -1,5 +1,5 @@
 
-main {
+.countries {
   border-top: 2px solid currentColor;
   border-bottom: 2px solid currentColor;
 }
@@ -18,9 +18,6 @@ main {
 
       .agency {
         color: var(--foreground);
+        display: inline-block;
+        padding: 0 0.5em;
       }
-
-        /*.agency a::before,
-        .agency a::after {
-          content: "•";
-        }*/

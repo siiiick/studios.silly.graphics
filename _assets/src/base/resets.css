@@ -38,13 +38,11 @@ a {
   text-decoration: none;
 }
 
-  a:hover {
-    /*color: var(--highlight);*/
-    cursor: pointer;
-    /*transition: color 100ms var(--simple-fade);*/
-    text-decoration: underline;
+  @media (--w-50) {
+    a:hover {
+      text-decoration: line-through;
+    }
   }
-
 
 html {
   font: 100%/1 var(--sans);
