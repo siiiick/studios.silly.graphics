@@ -2,12 +2,18 @@ countries:
 - name: Australia
   flag: 🇦🇺
   cities:
-  - name: Melbourne
+  - name: Melbourne # or Victoria or Melbourne Victoria?
     agencies:
     - n: Public Office
       w: https://public-office.info/
     - n: io
       w: http://studio-io.com/
+    - n: SP-GD
+      w: http://www.sp-gd.com/
+      i: yes
+    - n: U-P
+      w: http://u-p.co/
+      i: yes
 
 
 
@@ -18,6 +24,11 @@ countries:
     agencies:
     - n: Studio Studio
       w: http://studiostudio.be/
+
+  - name: Antwerp
+    agencies:
+    - n: Vrints-Kolsteren
+      w: http://vrints-kolsteren.com/
 
 
 
@@ -38,6 +49,8 @@ countries:
     agencies:
     - n: Studio Claus Due
       w: http://studioclausdue.dk/
+    - n: Wrong
+      w: http://wrongstudio.net/
 
 
 
@@ -46,7 +59,7 @@ countries:
   cities:
   - name: Paris
     agencies:
-    - n: b.a-ba
+    - n: b.a.-ba
       w: http://www.b-a-ba.works/
     - n: Building Paris
       w: http://www.buildingparis.fr/
@@ -54,12 +67,27 @@ countries:
       w: https://large.la
     - n: My name is
       w: http://mynameis.fr/
+    - n: Ohlman Consorti
+      w: http://ohlmanconsorti.com/
+    - n: Twice
+      w: http://www.wearetwice.com/
+    - n: WA75
+      w: http://www.wa75.com/en/
+    - n: Zoo
+      w: http://z-o-o.fr/
+    - n: Spassky Fischer
+      w: http://spassky-fischer.fr/
 
   - name: Lyon
     agencies:
     - n: Catalogue
       w: http://www.cataloguestudio.fr/
 
+  - name: Nantes
+    agencies:
+    - n: plus mûrs
+      w: http://plusmurs.fr/
+      i: yes
 
 
 - name: Germany
@@ -69,14 +97,18 @@ countries:
     agencies:
     - n: Hort
       w: http://hort.org.uk
+      i: yes
     - n: Pentagram
       w: http://pentagram.com
+      i: yes
     - n: Haw-lin Services
       w: http://haw-lin-services.com/
+      i: yes
     - n: arc
       w: http://arc-gestaltung.de/
     - n: Büro Bum Bum
       w: http://buerobumbum.com/
+      i: yes
     - n: HelloMe
       w: http://hellome.studio/
     - n: Hubert & Fischer
@@ -86,6 +118,14 @@ countries:
     - n: Node
       w: http://nodeberlin.com/
       i: yes
+    - n: Tim+Tim
+      w: http://www.timandtim.com/
+      i: yes
+    - n: Prolog
+      w: http://prolog.work/
+    - n: YUKIKO
+      w: http://y-u-k-i-k-o.com/
+      i: yes
 
   - name: Leipzig
     agencies:
@@ -93,6 +133,12 @@ countries:
       w: http://arc-gestaltung.de/
     - n: Lamm & Kirch
       w: http://lamm-kirch.com/
+
+  - name: Mannheim
+    agencies:
+    - n: Raum Mannheim
+      w: http://raum-mannheim.com/
+      i: yes
 
   - name: Munich
     agencies:
@@ -106,6 +152,26 @@ countries:
 
 
 
+- name: Greece
+  flag: 🇬🇷
+  cities:
+  - name: Athens
+    agencies:
+    - n: The Birthdays Design
+      w: http://www.thebirthdaysdesign.com/
+
+
+
+- name: Italy
+  flag: 🇮🇹
+  cities:
+  - name: Udine
+    agencies:
+    - n: Think Work Observe
+      w: http://t-wo.it/
+
+
+
 - name: Netherlands
   flag: 🇳🇱
   cities:
@@ -114,7 +180,19 @@ countries:
     - n: Harris Blondman
       w: http://www.harrisblondman.nl/
     - n: Metahaven
-      h: http://metahaven.net/
+      w: http://metahaven.net/
+    - n: Our Polite Society
+      w: http://www.ourpolitesociety.net/
+    - n: The Rodina
+      w: http://www.therodina.com/
+      i: yes
+
+  - name: Deventer
+    agencies:
+    - n: Open Studio
+      w: http://www.open-studio.nl/
+
+
 
 - name: Norway
   flag: 🇳🇴
@@ -124,6 +202,112 @@ countries:
     - n: Node
       w: http://nodeberlin.com/
       i: yes
+
+
+
+- name: Poland
+  flag: 🇵🇱
+  cities:
+  - name: Warsaw
+    agencies:
+    - n: MB/MH
+      w: http://mbmh.pl/
+
+
+
+- name: Russia
+  flag: 🇷🇺
+  cities:
+  - name: Moscow
+    agencies:
+    - n: Shuka
+      w: https://shuka.design
+
+
+
+- name: South Korea
+  flag: 🇰🇷
+  cities:
+  - name: Seoul
+    agencies:
+    - n: Corners
+      w: http://corners.kr/
+    - n: Studio Hertz
+      w: http://studiohertz.kr/
+
+
+
+- name: Spain
+  flag: 🇪🇸
+  cities:
+  - name: Barcelona
+    agencies:
+    - n: Clase
+      w: https://clasebcn.com
+
+  - name: Madrid
+    agencies:
+    - n: Koln Studio
+      w: http://kolnstudio.com/
+    - n: Pineal
+      w: http://pineal.studio/
+
+
+
+- name: Sweden
+  flag: 🇸🇪
+  cities:
+  - name: Stockholm
+    agencies:
+    - n: Our Polite Society
+      w: http://www.ourpolitesociety.net/
+
+
+
+- name: Switzerland
+  flag: 🇨🇭
+  cities:
+  - name: Lucerne
+    agencies:
+    - n: Studio Feixen
+      w: http://www.studiofeixen.ch/
+      i: yes
+
+  - name: Zurich
+    agencies:
+    - n: Afrika
+      w: http://afrika.to/
+    - n: Atlas Studio
+      w: https://www.atlasstudio.ch
+    - n: Badesaison
+      w: http://www.badesaison.ch/
+    - n: Offshore Studio
+      w: http://www.offshorestudio.ch/
+      i: yes
+    - n: Hubertus Design
+      w: http://hubertus-design.ch/
+    - n: Refinery
+      w: https://raffinerie.com
+    - n: Studio NOI
+      w: http://studio-noi.ch/
+
+  - name: St. Gallen
+    agencies:
+    - n: Bänziger Hug
+      w: http://www.baenziger-hug.com/
+    - n: Bureau Collective
+      w: http://www.bureaucollective.ch/
+    - n: Die Gestalter
+      w: http://www.gestalter.ch/
+
+  - name: Basel
+    agencies:
+    - n: Claudiabasel
+      w: http://claudiabasel.ch/
+    - n: Prolog
+      w: http://prolog.work/
+
+
 
 - name: United Kingdom
   flag: 🇬🇧
@@ -138,6 +322,19 @@ countries:
       w: http://pleasedonotbend.co.uk/
     - n: Wieden+Kennedy
       w: http://wklondon.com/
+    - n: OK-RM
+      w: http://www.ok-rm.co.uk/
+    - n: Graphic Thought Facility
+      w: http://www.graphicthoughtfacility.com/
+    - n: Zak Group
+      w: https://www.zakgroup.co.uk
+      i: yes
+    - n: Studio Veronica Ditting
+      w: http://studioveronicaditting.com/
+      i: yes
+    - n: John Morgan studio
+      w: http://www.morganstudio.co.uk/
+      i: yes
 
   - name: Leads
     agencies:
@@ -149,6 +346,12 @@ countries:
 - name: United States
   flag: 🇺🇸
   cities:
+  - name: Los Angeles, CA
+    agencies:
+    - n: Public-Library
+      w: http://public-library.org/
+      i: yes
+
   - name: San Francisco, CA
     agencies:
     - n: Pentagram
@@ -162,11 +365,21 @@ countries:
       w: http://common-name.com/
     - n: Hubert & Fischer
       w: http://hubertfischer.com/
+    - n: XXIX
+      w: http://www.xxix.co/
 
   - name: Brooklyn, NY
     agencies:
     - n: DIA
       w: http://dia.tv/
+    - n: This Also
+      w: http://thisalso.com/
+    - n: U-P
+      w: http://u-p.co/
+      i: yes
+    - n: Wax Studios
+      w: http://wax-studios.com/
+      i: yes
 
   - name: Portland, OR
     agencies:
@@ -187,60 +400,3 @@ countries:
     agencies:
     - n: Actual Source
       w: https://actualsource.work
-
-
-
-- name: South Korea
-  flag: 🇰🇷
-  cities:
-  - name: Seoul
-    agencies:
-    - n: Corners
-      w: http://corners.kr/
-
-
-
-- name: Spain
-  flag: 🇪🇸
-  cities:
-  - name: Barcelona
-    agencies:
-    - n: Clase
-      w: https://clasebcn.com
-
-  - name: Madrid
-    agencies:
-    - n: Koln Studio
-      w: http://kolnstudio.com/
-
-
-
-- name: Switzerland
-  flag: 🇨🇭
-  cities:
-  - name: Zurich
-    agencies:
-    - n: Afrika
-      w: http://afrika.to/
-    - n: Atlas Studio
-      w: https://www.atlasstudio.ch
-    - n: Badesaison
-      w: http://www.badesaison.ch/
-    - n: Offshore Studio
-      w: http://www.offshorestudio.ch/
-    - n: Hubertus Design
-      w: http://hubertus-design.ch/
-
-  - name: St. Gallen
-    agencies:
-    - n: Bänziger Hug
-      w: http://www.baenziger-hug.com/
-    - n: Bureau Collective
-      w: http://www.bureaucollective.ch/
-    - n: Die Gestalter
-      w: http://www.gestalter.ch/
-
-  - name: Basel
-    agencies:
-    - n: Claudiabasel
-      w: http://claudiabasel.ch/
