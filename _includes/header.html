@@ -9,7 +9,13 @@
   {%- endfor -%}
 {%- endfor -%} -->
 
-<header class="site__header wrapper">
-  <div>{{ site.title }}</div>
-  <p>{{ countries | size }} countries, {{ agency_count | divided_by: 2}} agencies</p>
+<header class="site__header">
+  <ul class="site__header__items">
+    <li class="site__title">
+      {{ site.title }}
+    </li>
+    <li>
+      <p>{{ countries | size }} countries, {{ agency_count | divided_by: 2}} agencies</p>
+    </li>
+  </ul>
 </header>
