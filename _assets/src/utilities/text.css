@@ -18,3 +18,7 @@
 .small {
   font-variant: small-caps;
 }
+
+.old-style {
+  font-variant-numeric: oldstyle-nums;
+}
