@@ -1,5 +1,28 @@
 
 .site__footer {
   font-size: 1.25rem;
-  padding: 1em 0;
 }
+
+  .site__footer section {
+    padding: 1em 0.5em;
+  }
+
+  .site__footer section + section {
+    border-top: 2px solid currentColor;
+  }
+
+  .site__footer__items {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+  }
+
+    @media (--w-50) {
+      .site__footer__items {
+        flex-direction: row;
+      }
+
+        .site__footer__items li + li {
+          padding-left: 1em;
+        }
+    }

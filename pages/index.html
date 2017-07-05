@@ -24,7 +24,9 @@ permalink: /
           <li class="agency">
             <div class="agency-name">
               <a href="{{ agency.w }}" target="_blank">
+                {%- if agency.i -%}*{%- endif -%}
                 {{ agency.n }}
+                {%- if agency.i -%}*{%- endif -%}
               </a>
             </div>
           </li>
