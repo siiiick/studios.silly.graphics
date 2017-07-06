@@ -39,7 +39,8 @@ a {
 }
 
   @media (--w-50) {
-    a:hover {
+    a[href^="http"]:hover {
+      cursor: alias;
       text-decoration: line-through;
     }
   }

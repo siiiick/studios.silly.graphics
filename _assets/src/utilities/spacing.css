@@ -1,19 +1,5 @@
 
-.pt8-16 {
+.y-spacing {
   padding-top: 2em;
-}
-
-.mb8-16 {
-  margin-bottom: 2em;
-}
-
-@media (--w-50) {
-  /* adjust for less vertical space on mobile */
-  .pt8-16 {
-    padding-top: 4em;
-  }
-
-  .mb8-16 {
-    margin-bottom: 4em;
-  }
+  padding-bottom: 2em;
 }

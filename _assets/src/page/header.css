@@ -1,21 +1,16 @@
 
-.site__header {
-  color: var(--foreground);
+.site__nav a {
+  display: inline-block;
   padding: 1em 0.5em;
+  transition: color 100ms var(--simple-fade);
 }
 
-  .site__header__items {
-    display: flex;
-    flex-direction: column;
-    justify-content: space-between;
+  @media (--w-50) {
+    .site__nav a:hover {
+      color: var(--foreground);
+    }
   }
 
-    @media (--w-50) {
-      .site__header__items {
-        flex-direction: row;
-      }
-
-        .site__header__items li + li {
-          padding-left: 1em;
-        }
-    }
+  .active {
+    color: var(--foreground);
+  }

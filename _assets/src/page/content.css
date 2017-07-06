@@ -1,15 +1,11 @@
 
-.countries {
-  border-top: 2px solid currentColor;
-  border-bottom: 2px solid currentColor;
+main {
+  border-top: 2px solid var(--border);
+  border-bottom: 2px solid var(--border);
 }
 
-  .country {
-    padding: 2em 0;
-  }
-
   .country + .country {
-    border-top: 2px solid currentColor;
+    border-top: 2px solid var(--border);
   }
 
     .city::before {
@@ -21,3 +17,8 @@
         display: inline-block;
         padding: 0 0.5em;
       }
+
+.legend {
+  border-top: 2px solid var(--border);
+  padding: 1em 0;
+}

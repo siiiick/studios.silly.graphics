@@ -1,19 +1,12 @@
 <footer class="site__footer uppercase">
+  <ul class="site__footer__items">
+    <li>
+      {{ countries | size }} countries,
+      {{ agency_count | divided_by: 3 }} agencies
+    </li>
 
-  <section>
-    <p>*Offers internships*</p>
-  </section>
-
-  <section>
-    <ul class="site__footer__items site__footer__section">
-      <li>
-        A thing by <a href="https://twitter.com/jckfa" target="_blank">@jckfa</a>
-        • <a href="{{ site.github_url }}" target="_blank">Source</a>
-      </li>
-
-      <li>
-        Last updated: {{ "now" | date: "%-d %b %Y" }}
-      </li>
-    </ul>
-  </section>
+    <li>
+      Last updated: {{ "now" | date: "%-d %b %Y" }}
+    </li>
+  </ul>
 </footer>

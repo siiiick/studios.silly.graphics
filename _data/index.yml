@@ -77,6 +77,9 @@ countries:
       w: http://z-o-o.fr/
     - n: Spassky Fischer
       w: http://spassky-fischer.fr/
+    - n: Teschner—Sturacci
+      w: http://teschner-sturacci.com/
+      i: yes
 
   - name: Lyon
     agencies:
@@ -149,6 +152,11 @@ countries:
     - n: Moby Digg
       w: http://www.mobydigg.de/
       i: yes
+
+  - name: Nuremberg
+    agencies:
+    - n: unfun
+      w: http://unfun.de/
 
 
 
@@ -267,6 +275,11 @@ countries:
 - name: Switzerland
   flag: 🇨🇭
   cities:
+  - name: La Chaux-de-Fonds
+    agencies:
+    - n: SUPERO
+      w: https://www.supero.ch/
+
   - name: Lucerne
     agencies:
     - n: Studio Feixen
@@ -380,16 +393,25 @@ countries:
     - n: Wax Studios
       w: http://wax-studios.com/
       i: yes
+    - n: Studio Elana Schlenker
+      w: http://elanaschlenker.com/
+
+  - name: Pittsburgh, PA
+    agencies:
+    - n: Studio Elana Schlenker
+      w: http://elanaschlenker.com/
 
   - name: Portland, OR
     agencies:
     - n: Fuzzco
       w: http://fuzzco.com
+      i: yes
 
   - name: Charleston, SC
     agencies:
     - n: Fuzzco
       w: http://fuzzco.com
+      i: yes
 
   - name: Austin, TX
     agencies:

@@ -10,12 +10,16 @@
 {%- endfor -%} -->
 
 <header class="site__header">
-  <ul class="site__header__items">
-    <li class="site__title">
-      {{ site.title }}
+  <ul class="site__nav flex-x flex-justify">
+    {%- assign pages = site.html_pages | sort: "order" -%}
+    {%- for p in pages -%}
+    {%- if p.order -%}
+    <li>
+      <a href="{{ p.url }}" {%- if page.url == p.url -%} class="active" {%- endif -%}>
+        {{ p.title }}
+      </a>
     </li>
-    <li class="old-style">
-      <p>{{ countries | size }} countries, {{ agency_count | divided_by: 2}} agencies</p>
-    </li>
+    {%- endif -%}
+    {%- endfor -%}
   </ul>
 </header>

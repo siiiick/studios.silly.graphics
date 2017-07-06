@@ -1,14 +1,17 @@
 ---
 layout: default
 permalink: /
+order: 1
+<!-- title: F57& -->
+title: Catalog
 ---
 
 {%- assign countries = site.data.index.countries | sort: "name" -%}
 
 <ul class="countries">
   {%- for country in countries -%}
-  {%- assign cities = country.cities -%}
-  <li class="country">
+  {%- assign cities = country.cities | uniq | sort: "name" -%}
+  <li class="country y-spacing">
     <div class="country-name">
       {{ country.flag }} {{ country.name }} {{ country.flag }}
     </div>
@@ -40,3 +43,8 @@ permalink: /
   </li>
   {%- endfor -%}
 </ul>
+
+
+<div class="legend small">
+  <p>*offers internships*</p>
+</div>
