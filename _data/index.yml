@@ -1,4 +1,14 @@
 countries:
+- name: Austria
+  flag: 🇦🇹
+  cities:
+  - name: Linz
+    agencies:
+    - n: OrtnerSchinko
+      w: http://www.ortnerschinko.com/
+
+
+
 - name: Australia
   flag: 🇦🇺
   cities:
@@ -29,6 +39,21 @@ countries:
     agencies:
     - n: Vrints-Kolsteren
       w: http://vrints-kolsteren.com/
+
+
+
+- name: Brazil
+  flag: 🇧🇷
+  cities:
+  - name: São Paulo
+    agencies:
+    - n: Regularswitch
+      w: http://regularswitch.com.br/
+
+  - name: Londrina
+    agencies:
+    - n: Pianofuzz
+      w: http://pianofuzz.com/
 
 
 
@@ -80,17 +105,24 @@ countries:
     - n: Teschner—Sturacci
       w: http://teschner-sturacci.com/
       i: yes
+    - n: Regularswitch
+      w: http://regularswitch.com.br/
+    - n: Pilote
+      w: http://piloteparis.com/
 
   - name: Lyon
     agencies:
     - n: Catalogue
       w: http://www.cataloguestudio.fr/
+    - n: Regularswitch
+      w: http://regularswitch.com.br/
 
   - name: Nantes
     agencies:
     - n: plus mûrs
       w: http://plusmurs.fr/
       i: yes
+
 
 
 - name: Germany
@@ -128,6 +160,15 @@ countries:
       w: http://prolog.work/
     - n: YUKIKO
       w: http://y-u-k-i-k-o.com/
+      i: yes
+    - n: Stahl R
+      w: http://stahl-r.com/
+      i: yes
+    - n: Fons Hickmann m23
+      w: http://www.fonshickmann.com/
+      i: yes
+    - n: Mjölk
+      w: http://www.studiomjolk.com/
       i: yes
 
   - name: Leipzig
@@ -170,13 +211,39 @@ countries:
 
 
 
+- name: Israel
+  flag: 🇮🇱
+  cities:
+  - name: Tel Aviv
+    agencies:
+    - n: Public School
+      w: http://wearepublicschool.com/
+
+
+
 - name: Italy
   flag: 🇮🇹
   cities:
+  - name: Rome
+    agencies:
+    - n: Mjölk
+      w: http://www.studiomjolk.com/
+      i: yes
+
   - name: Udine
     agencies:
     - n: Think Work Observe
       w: http://t-wo.it/
+
+
+
+- name: Mexico
+  flag: 🇲🇽
+  cities:
+  - name: Mexico City
+    agencies:
+    - n: Sociedad Anónima
+      w: http://www.sociedadanonima.mx/
 
 
 
@@ -199,6 +266,11 @@ countries:
     agencies:
     - n: Open Studio
       w: http://www.open-studio.nl/
+
+  - name: The Hague
+    agencies:
+    - n: papa
+      w: http://www.kantoorpapa.nl/
 
 
 
@@ -230,6 +302,26 @@ countries:
     agencies:
     - n: Shuka
       w: https://shuka.design
+
+
+
+- name: Serbia
+  flag: 🇷🇸
+  cities:
+  - name: Belgrade
+    agencies:
+    - n: Studio Now
+      w: http://studio-now.net/
+
+
+
+- name: Singapore
+  flag: 🇸🇬
+  cities:
+  - name: Singapore
+    agencies:
+    - n: qu'est-ce que c'est design
+      w: http://quest-ce.com/
 
 
 
@@ -269,6 +361,9 @@ countries:
     agencies:
     - n: Our Polite Society
       w: http://www.ourpolitesociety.net/
+    - n: PJADAD
+      w: http://pjadad.com/
+      i: yes
 
 
 
@@ -348,6 +443,8 @@ countries:
     - n: John Morgan studio
       w: http://www.morganstudio.co.uk/
       i: yes
+    - n: Wolff Olins
+      w: http://www.wolffolins.com/
 
   - name: Leads
     agencies:
@@ -359,16 +456,36 @@ countries:
 - name: United States
   flag: 🇺🇸
   cities:
+  - name: Austin, TX
+    agencies:
+    - n: Pentagram
+      w: http://pentagram.com
+
+  - name: Charleston, SC
+    agencies:
+    - n: Fuzzco
+      w: http://fuzzco.com
+      i: yes
+
+  - name: Chicago, IL
+    agencies:
+    - n: Plural
+      w: http://weareplural.com/
+
   - name: Los Angeles, CA
     agencies:
     - n: Public-Library
       w: http://public-library.org/
       i: yes
+    - n: Plural
+      w: http://weareplural.com/
 
   - name: San Francisco, CA
     agencies:
     - n: Pentagram
       w: http://pentagram.com
+    - n: Wolff Olins
+      w: http://www.wolffolins.com/
 
   - name: New York, NY
     agencies:
@@ -380,6 +497,8 @@ countries:
       w: http://hubertfischer.com/
     - n: XXIX
       w: http://www.xxix.co/
+    - n: Wolff Olins
+      w: http://www.wolffolins.com/
 
   - name: Brooklyn, NY
     agencies:
@@ -396,6 +515,11 @@ countries:
     - n: Studio Elana Schlenker
       w: http://elanaschlenker.com/
 
+  - name: Kansas City, MO
+    agencies:
+    - n: Special Edition Co.
+      w: http://special-edition.co/
+
   - name: Pittsburgh, PA
     agencies:
     - n: Studio Elana Schlenker
@@ -406,17 +530,6 @@ countries:
     - n: Fuzzco
       w: http://fuzzco.com
       i: yes
-
-  - name: Charleston, SC
-    agencies:
-    - n: Fuzzco
-      w: http://fuzzco.com
-      i: yes
-
-  - name: Austin, TX
-    agencies:
-    - n: Pentagram
-      w: http://pentagram.com
 
   - name: Provo, UT
     agencies:
