@@ -1,0 +1,47 @@
+name: Switzerland
+flag: 🇨🇭
+cities:
+- name: La Chaux-de-Fonds
+  agencies:
+  - n: SUPERO
+    w: https://www.supero.ch/
+
+- name: Lucerne
+  agencies:
+  - n: Studio Feixen
+    w: http://www.studiofeixen.ch/
+    i: yes
+
+- name: Zurich
+  agencies:
+  - n: Afrika
+    w: http://afrika.to/
+  - n: Atlas Studio
+    w: https://www.atlasstudio.ch
+  - n: Badesaison
+    w: http://www.badesaison.ch/
+  - n: Offshore Studio
+    w: http://www.offshorestudio.ch/
+    i: yes
+  - n: Hubertus Design
+    w: http://hubertus-design.ch/
+  - n: Refinery
+    w: https://raffinerie.com
+  - n: Studio NOI
+    w: http://studio-noi.ch/
+
+- name: St. Gallen
+  agencies:
+  - n: Bänziger Hug
+    w: http://www.baenziger-hug.com/
+  - n: Bureau Collective
+    w: http://www.bureaucollective.ch/
+  - n: Die Gestalter
+    w: http://www.gestalter.ch/
+
+- name: Basel
+  agencies:
+  - n: Claudiabasel
+    w: http://claudiabasel.ch/
+  - n: Prolog
+    w: http://prolog.work/

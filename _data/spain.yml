@@ -1,0 +1,14 @@
+name: Spain
+flag: 🇪🇸
+cities:
+- name: Barcelona
+  agencies:
+  - n: Clase
+    w: https://clasebcn.com
+
+- name: Madrid
+  agencies:
+  - n: Koln Studio
+    w: http://kolnstudio.com/
+  - n: Pineal
+    w: http://pineal.studio/

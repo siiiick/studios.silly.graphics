@@ -1,0 +1,33 @@
+name: United Kingdom
+flag: 🇬🇧
+cities:
+- name: London
+  agencies:
+  - n: Pentagram
+    w: http://pentagram.com
+  - n: A Practice for Everyday Life
+    w: http://apracticeforeverydaylife.com/
+  - n: Fraser Muggeridge studio
+    w: http://pleasedonotbend.co.uk/
+  - n: Wieden+Kennedy
+    w: http://wklondon.com/
+  - n: OK-RM
+    w: http://www.ok-rm.co.uk/
+  - n: Graphic Thought Facility
+    w: http://www.graphicthoughtfacility.com/
+  - n: Zak Group
+    w: https://www.zakgroup.co.uk
+    i: yes
+  - n: Studio Veronica Ditting
+    w: http://studioveronicaditting.com/
+    i: yes
+  - n: John Morgan studio
+    w: http://www.morganstudio.co.uk/
+    i: yes
+  - n: Wolff Olins
+    w: http://www.wolffolins.com/
+
+- name: Leads
+  agencies:
+  - n: Hungry Sandwich Club
+    w: http://hungrysandwich.club/

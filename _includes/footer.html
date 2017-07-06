@@ -1,3 +1,14 @@
+{%- assign countries = site.data -%}
+
+<!-- BRITTLE CODE——CHANGES ON NUMBER OF PAGES -->
+<!-- {%- for country in countries -%}
+  {%- for city in country[1].cities -%}
+    {%- for agency in city.agencies -%}
+      {%- increment agency_count -%}
+    {%- endfor -%}
+  {%- endfor -%}
+{%- endfor -%} -->
+
 <footer class="site__footer uppercase">
   <ul class="site__footer__items">
     <li>

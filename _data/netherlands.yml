@@ -1,0 +1,24 @@
+name: Netherlands
+flag: 🇳🇱
+cities:
+- name: Amsterdam
+  agencies:
+  - n: Harris Blondman
+    w: http://www.harrisblondman.nl/
+  - n: Metahaven
+    w: http://metahaven.net/
+  - n: Our Polite Society
+    w: http://www.ourpolitesociety.net/
+  - n: The Rodina
+    w: http://www.therodina.com/
+    i: yes
+
+- name: Deventer
+  agencies:
+  - n: Open Studio
+    w: http://www.open-studio.nl/
+
+- name: The Hague
+  agencies:
+  - n: papa
+    w: http://www.kantoorpapa.nl/

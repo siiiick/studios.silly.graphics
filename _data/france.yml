@@ -1,0 +1,43 @@
+name: France
+flag: 🇫🇷
+cities:
+- name: Paris
+  agencies:
+  - n: b.a.-ba
+    w: http://www.b-a-ba.works/
+  - n: Building Paris
+    w: http://www.buildingparis.fr/
+  - n: Large Projects
+    w: https://large.la
+  - n: My name is
+    w: http://mynameis.fr/
+  - n: Ohlman Consorti
+    w: http://ohlmanconsorti.com/
+  - n: Twice
+    w: http://www.wearetwice.com/
+  - n: WA75
+    w: http://www.wa75.com/en/
+  - n: Zoo
+    w: http://z-o-o.fr/
+  - n: Spassky Fischer
+    w: http://spassky-fischer.fr/
+  - n: Teschner—Sturacci
+    w: http://teschner-sturacci.com/
+    i: yes
+  - n: Regularswitch
+    w: http://regularswitch.com.br/
+  - n: Pilote
+    w: http://piloteparis.com/
+
+- name: Lyon
+  agencies:
+  - n: Catalogue
+    w: http://www.cataloguestudio.fr/
+  - n: Regularswitch
+    w: http://regularswitch.com.br/
+
+- name: Nantes
+  agencies:
+  - n: plus mûrs
+    w: http://plusmurs.fr/
+    i: yes

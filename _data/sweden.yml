@@ -1,0 +1,10 @@
+name: Sweden
+flag: 🇸🇪
+cities:
+- name: Stockholm
+  agencies:
+  - n: Our Polite Society
+    w: http://www.ourpolitesociety.net/
+  - n: PJADAD
+    w: http://pjadad.com/
+    i: yes

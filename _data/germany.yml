@@ -1,0 +1,73 @@
+name: Germany
+flag: 🇩🇪
+cities:
+- name: Berlin
+  agencies:
+  - n: Hort
+    w: http://hort.org.uk
+    i: yes
+  - n: Pentagram
+    w: http://pentagram.com
+    i: yes
+  - n: Haw-lin Services
+    w: http://haw-lin-services.com/
+    i: yes
+  - n: arc
+    w: http://arc-gestaltung.de/
+  - n: Büro Bum Bum
+    w: http://buerobumbum.com/
+    i: yes
+  - n: HelloMe
+    w: http://hellome.studio/
+  - n: Hubert & Fischer
+    w: http://hubertfischer.com/
+  - n: Modem studio
+    w: http://www.modem.ws/
+  - n: Node
+    w: http://nodeberlin.com/
+    i: yes
+  - n: Tim+Tim
+    w: http://www.timandtim.com/
+    i: yes
+  - n: Prolog
+    w: http://prolog.work/
+  - n: YUKIKO
+    w: http://y-u-k-i-k-o.com/
+    i: yes
+  - n: Stahl R
+    w: http://stahl-r.com/
+    i: yes
+  - n: Fons Hickmann m23
+    w: http://www.fonshickmann.com/
+    i: yes
+  - n: Mjölk
+    w: http://www.studiomjolk.com/
+    i: yes
+
+- name: Leipzig
+  agencies:
+  - n: arc
+    w: http://arc-gestaltung.de/
+  - n: Lamm & Kirch
+    w: http://lamm-kirch.com/
+
+- name: Mannheim
+  agencies:
+  - n: Raum Mannheim
+    w: http://raum-mannheim.com/
+    i: yes
+
+- name: Munich
+  agencies:
+  - n: Bureau Borsche
+    w: http://bureauborsche.com/
+  - n: Daily Dialogue
+    w: http://dailydialogue.cc/
+  - n: Moby Digg
+    w: http://www.mobydigg.de/
+    i: yes
+
+- name: Nuremberg
+  agencies:
+  - n: unfun
+    w: http://unfun.de/

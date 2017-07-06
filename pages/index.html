@@ -5,14 +5,13 @@ order: 1
 title: F57&
 ---
 
-{%- assign countries = site.data.index.countries | sort: "name" -%}
-
+{%- assign countries = site.data -%}
 <ul class="countries">
   {%- for country in countries -%}
-  {%- assign cities = country.cities | uniq | sort: "name" -%}
+  {%- assign cities = country[1].cities | uniq | sort: "name" -%}
   <li class="country y-spacing">
     <div class="country-name">
-      {{ country.flag }} {{ country.name }} {{ country.flag }}
+      {{ country[1].flag }} {{ country[1].name }} {{ country[1].flag }}
     </div>
 
     <ul class="cities">

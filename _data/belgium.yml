@@ -1,0 +1,12 @@
+name: Belgium
+flag: 🇧🇪
+cities:
+- name: Ghent
+  agencies:
+  - n: Studio Studio
+    w: http://studiostudio.be/
+
+- name: Antwerp
+  agencies:
+  - n: Vrints-Kolsteren
+    w: http://vrints-kolsteren.com/

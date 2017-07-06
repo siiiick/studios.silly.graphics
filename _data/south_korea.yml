@@ -1,0 +1,9 @@
+name: South Korea
+flag: 🇰🇷
+cities:
+- name: Seoul
+  agencies:
+  - n: Corners
+    w: http://corners.kr/
+  - n: Studio Hertz
+    w: http://studiohertz.kr/

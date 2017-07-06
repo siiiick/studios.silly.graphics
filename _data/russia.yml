@@ -1,0 +1,7 @@
+name: Russia
+flag: 🇷🇺
+cities:
+- name: Moscow
+  agencies:
+  - n: Shuka
+    w: https://shuka.design

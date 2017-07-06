@@ -1,14 +1,3 @@
-{%- assign countries = site.data.index.countries -%}
-
-<!-- BRITTLE CODE——CHANGES ON NUMBER OF PAGES -->
-<!-- {%- for country in countries -%}
-  {%- for city in country.cities -%}
-    {%- for agency in city.agencies -%}
-      {%- increment agency_count -%}
-    {%- endfor -%}
-  {%- endfor -%}
-{%- endfor -%} -->
-
 <header class="site__header">
   <ul class="site__nav flex-x flex-justify">
     {%- assign pages = site.html_pages | sort: "order" -%}

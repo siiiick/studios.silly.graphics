@@ -1,0 +1,13 @@
+name: Italy
+flag: 🇮🇹
+cities:
+- name: Rome
+  agencies:
+  - n: Mjölk
+    w: http://www.studiomjolk.com/
+    i: yes
+
+- name: Udine
+  agencies:
+  - n: Think Work Observe
+    w: http://t-wo.it/

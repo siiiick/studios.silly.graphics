@@ -1,0 +1,12 @@
+name: Brazil
+flag: 🇧🇷
+cities:
+- name: São Paulo
+  agencies:
+  - n: Regularswitch
+    w: http://regularswitch.com.br/
+
+- name: Londrina
+  agencies:
+  - n: Pianofuzz
+    w: http://pianofuzz.com/
