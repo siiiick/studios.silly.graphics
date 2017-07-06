@@ -52,3 +52,13 @@ html {
   -moz-osx-font-smoothing: grayscale;
   text-rendering: optimizeLegibility;
 }
+
+::-moz-selection {
+  color:            var(--foreground);
+  background-color: var(--highlight);
+}
+
+::selection {
+  color:            var(--foreground);
+  background-color: var(--highlight);
+}
