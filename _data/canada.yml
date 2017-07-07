@@ -10,3 +10,10 @@ cities:
   agencies:
   - n: LOG Creative Bureau
     w: http://www.logcb.com/
+
+- name: Vancouver
+  agencies:
+  - n: Glasfurd & Walker
+    w: http://glasfurdandwalker.com/
+  - n: Faculty
+    w: http://studiofaculty.com/

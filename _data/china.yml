@@ -1,0 +1,8 @@
+name: China
+flag: 🇨🇳
+cities:
+- name: Shanghai
+  agencies:
+  - n: IDEO
+    w: https://www.ideo.com/
+    i: yes

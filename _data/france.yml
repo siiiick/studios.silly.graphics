@@ -49,7 +49,7 @@ cities:
     i: yes
   - n: Chevalvert
     w: http://chevalvert.fr/
-  - n: Avant:post
+  - n: Avant Post
     w: http://www.avantpost.fr/
   - n: Adulte Adulte
     w: http://www.adulte-adulte.fr/
@@ -57,6 +57,11 @@ cities:
     w: http://acme-paris.com/
   - n: ABM Studio
     w: http://www.abm-studio.com/
+  - n: Le Studio be-poles
+    w: http://www.be-poles.com/
+    i: yes
+  - n: Studio Dessuant Bone
+    w: http://www.studiodessuantbone.com/
 
 - name: Lyon
   agencies:

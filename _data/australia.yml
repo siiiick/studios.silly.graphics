@@ -1,7 +1,7 @@
 name: Australia
 flag: 🇦🇺
 cities:
-- name: Melbourne # or Victoria or Melbourne Victoria?
+- name: Melbourne
   agencies:
   - n: Public Office
     w: https://public-office.info/
@@ -13,3 +13,10 @@ cities:
   - n: U-P
     w: http://u-p.co/
     i: yes
+  - n: Studio Brave
+    w: http://studiobrave.com.au/
+
+- name: Sydney
+  agencies:
+  - n: Co-Partnership
+    w: http://co-partnership.com/

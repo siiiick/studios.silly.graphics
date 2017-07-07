@@ -7,16 +7,64 @@ cities:
     w: http://pentagram.com
     i: yes
 
+- name: Brooklyn, NY
+  agencies:
+  - n: DIA
+    w: http://dia.tv/
+  - n: This Also
+    w: http://thisalso.com/
+  - n: U-P
+    w: http://u-p.co/
+    i: yes
+  - n: Wax Studios
+    w: http://wax-studios.com/
+    i: yes
+  - n: Studio Elana Schlenker
+    w: http://elanaschlenker.com/
+  - n: Other Means
+    w: http://othermeans.us/
+    i: yes
+  - n: Charles&Thorn
+    w: https://www.charlesandthorn.com
+  - n: Atlas
+    w: https://designbyatlas.com/
+  - n: Franklyn
+    w: http://quitefranklyn.com/
+    i: yes
+
+- name: Cambridge, MA
+  agencies:
+  - n: IDEO
+    w: https://www.ideo.com/
+    i: yes
+
 - name: Charleston, SC
   agencies:
   - n: Fuzzco
     w: http://fuzzco.com
     i: yes
+  - n: One & Other
+    w: http://oneandother.co/
 
 - name: Chicago, IL
   agencies:
   - n: Plural
     w: http://weareplural.com/
+  - n: IDEO
+    w: https://www.ideo.com/
+    i: yes
+
+- name: Denver, CO
+  agencies:
+  - n: Mast
+    w: http://www.studiomast.co/
+
+- name: Kansas City, MO
+  agencies:
+  - n: Special Edition Co.
+    w: http://special-edition.co/
+  - n: Carpenter Collective
+    w: http://carpentercollective.com/
 
 - name: Los Angeles, CA
   agencies:
@@ -25,14 +73,17 @@ cities:
     i: yes
   - n: Plural
     w: http://weareplural.com/
+  - n: Chandelier Creative
+    w: https://www.chandeliercreative.com
 
-- name: San Francisco, CA
+- name: Nashville, TN
   agencies:
-  - n: Pentagram
-    w: http://pentagram.com
+  - n: Perky Bros
+    w: http://www.perkybros.com/
     i: yes
-  - n: Wolff Olins
-    w: http://www.wolffolins.com/
+  - n: Peck & Company
+    w: http://peckandco.com/
+    i: yes
 
 - name: New York, NY
   agencies:
@@ -50,26 +101,29 @@ cities:
   - n: Base Design
     w: https://basedesign.com
     i: yes
-
-- name: Brooklyn, NY
-  agencies:
-  - n: DIA
-    w: http://dia.tv/
-  - n: This Also
-    w: http://thisalso.com/
-  - n: U-P
-    w: http://u-p.co/
+  - n: Le Studio be-poles
+    w: http://www.be-poles.com/
     i: yes
-  - n: Wax Studios
-    w: http://wax-studios.com/
+  - n: Javas Lehn Studio
+    w: http://javaslehnstudio.com/
+  - n: Chandelier Creative
+    w: https://www.chandeliercreative.com
+  - n: Mother Design
+    w: http://www.motherdesign.com/
+  - n: IDEO
+    w: https://www.ideo.com/
     i: yes
-  - n: Studio Elana Schlenker
-    w: http://elanaschlenker.com/
+  - n: Sagmeister & Walsh
+    w: http://sagmeisterwalsh.com/
+    i: yes
+  - n: RoAndCo
+    w: http://www.roandcostudio.com/
 
-- name: Kansas City, MO
+- name: Palo Alto
   agencies:
-  - n: Special Edition Co.
-    w: http://special-edition.co/
+  - n: IDEO
+    w: https://www.ideo.com/
+    i: yes
 
 - name: Pittsburgh, PA
   agencies:
@@ -86,3 +140,26 @@ cities:
   agencies:
   - n: Actual Source
     w: https://actualsource.work
+
+- name: San Francisco, CA
+  agencies:
+  - n: Pentagram
+    w: http://pentagram.com
+    i: yes
+  - n: Wolff Olins
+    w: http://www.wolffolins.com/
+  - n: Manual
+    w: http://manualcreative.com/
+    i: yes
+  - n: Moniker
+    w: http://monikersf.com/
+  - n: IDEO
+    w: https://www.ideo.com/
+    i: yes
+
+- name: Seattle, WA
+  agencies:
+  - n: Flint
+    w: http://www.flintmade.co/
+  - n: Hum Creative
+    w: http://humcreative.com/

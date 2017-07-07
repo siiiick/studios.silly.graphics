@@ -14,6 +14,8 @@ cities:
     i: yes
   - n: Meeusontwerpt
     w: http://www.meeusontwerpt.nl/
+  - n: Experimental Jetset
+    w: https://www.experimentaljetset.nl
 
 - name: Deventer
   agencies:

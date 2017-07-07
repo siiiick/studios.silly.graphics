@@ -31,8 +31,32 @@ cities:
   - n: RM&CO
     w: http://rossimazzei.com/
     i: yes
+  - n: Co-Partnership
+    w: http://co-partnership.com/
+  - n: Made Thought
+    w: http://madethought.com/
+  - n: Bunch
+    w: http://bunchdesign.com/
+    i: yes
+  - n: Two Times Elliott
+    w: http://www.2xelliott.co.uk/
+  - n: dn&co.
+    w: https://dnco.com
+  - n: Mother Design
+    w: http://www.motherdesign.com/
+  - n: IDEO
+    w: https://www.ideo.com/
+    i: yes
+  - n: Studio Thomas
+    w: https://studiothomas.co.uk
 
 - name: Leads
   agencies:
   - n: Hungry Sandwich Club
     w: http://hungrysandwich.club/
+
+- name: Manchester
+  agencies:
+  - n: Only
+    w: http://onlystudio.co.uk/
+    i: yes

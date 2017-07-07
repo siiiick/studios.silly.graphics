@@ -1,0 +1,8 @@
+name: Japan
+flag: 🇯🇵
+cities:
+- name: Tokyo
+  agencies:
+  - n: IDEO
+    w: https://www.ideo.com/
+    i: yes

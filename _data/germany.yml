@@ -74,10 +74,14 @@ cities:
   agencies:
   - n: Bureau Borsche
     w: http://bureauborsche.com/
+    i: yes
   - n: Daily Dialogue
     w: http://dailydialogue.cc/
   - n: Moby Digg
     w: http://www.mobydigg.de/
+    i: yes
+  - n: IDEO
+    w: https://www.ideo.com/
     i: yes
 
 - name: Nuremberg

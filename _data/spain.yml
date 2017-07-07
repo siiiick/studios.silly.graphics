@@ -5,6 +5,9 @@ cities:
   agencies:
   - n: Clase
     w: https://clasebcn.com
+  - n: Folch
+    w: https://www.folchstudio.com
+    i: yes
 
 - name: Madrid
   agencies:
@@ -14,3 +17,8 @@ cities:
     w: http://pineal.studio/
   - n: Bandiz Studio
     w: http://www.bandizstudio.com/
+
+- name: Palma de Mallorca
+  agencies:
+  - n: Atlas
+    w: https://designbyatlas.com/

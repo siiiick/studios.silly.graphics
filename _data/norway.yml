@@ -6,3 +6,5 @@ cities:
   - n: Node
     w: http://nodeberlin.com/
     i: yes
+  - n: Heydays
+    w: http://heydays.no/
