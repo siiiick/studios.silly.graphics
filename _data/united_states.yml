@@ -5,6 +5,7 @@ cities:
   agencies:
   - n: Pentagram
     w: http://pentagram.com
+    i: yes
 
 - name: Charleston, SC
   agencies:
@@ -29,6 +30,7 @@ cities:
   agencies:
   - n: Pentagram
     w: http://pentagram.com
+    i: yes
   - n: Wolff Olins
     w: http://www.wolffolins.com/
 
@@ -36,6 +38,7 @@ cities:
   agencies:
   - n: Pentagram
     w: http://pentagram.com
+    i: yes
   - n: Common Name
     w: http://common-name.com/
   - n: Hubert & Fischer
@@ -44,6 +47,9 @@ cities:
     w: http://www.xxix.co/
   - n: Wolff Olins
     w: http://www.wolffolins.com/
+  - n: Base Design
+    w: https://basedesign.com
+    i: yes
 
 - name: Brooklyn, NY
   agencies:

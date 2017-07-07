@@ -26,6 +26,11 @@ cities:
     i: yes
   - n: Wolff Olins
     w: http://www.wolffolins.com/
+  - n: Mind Design
+    w: http://www.minddesign.co.uk/
+  - n: RM&CO
+    w: http://rossimazzei.com/
+    i: yes
 
 - name: Leads
   agencies:

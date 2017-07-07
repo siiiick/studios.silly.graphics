@@ -1,11 +1,21 @@
 name: Italy
 flag: 🇮🇹
 cities:
+- name: Como
+  agencies:
+  - n: CCRZ
+    w: http://www.ccrz.ch/
+    
 - name: Rome
   agencies:
   - n: Mjölk
     w: http://www.studiomjolk.com/
     i: yes
+
+- name: Trieste
+  agencies:
+  - n: Studio iknoki
+    w: http://www.iknoki.com/
 
 - name: Udine
   agencies:

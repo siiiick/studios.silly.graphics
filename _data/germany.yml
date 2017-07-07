@@ -43,6 +43,19 @@ cities:
   - n: Mjölk
     w: http://www.studiomjolk.com/
     i: yes
+  - n: Studio Maven
+    w: http://mavenberlin.com/
+  - n: Eps51
+    w: https://www.eps51.com
+    i: yes
+  - n: Cee Cee Creative
+    w: http://ceeceecreative.com/
+    i: yes
+  - n: BASICS09
+    w: http://basics09.de/
+  - n: 44flavours
+    w: http://www.44flavours.com/
+    i: yes
 
 - name: Leipzig
   agencies:

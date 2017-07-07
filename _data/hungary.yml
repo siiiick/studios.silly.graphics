@@ -1,0 +1,7 @@
+name: Hungary
+flag: 🇭🇺
+cities:
+- name: Budapest
+  agencies:
+  - n: de_form
+    w: http://de-form.hu/

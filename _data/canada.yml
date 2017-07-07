@@ -5,3 +5,8 @@ cities:
   agencies:
   - n: Bureau Principal
     w: http://www.bureau-principal.com/
+
+- name: Ottawa
+  agencies:
+  - n: LOG Creative Bureau
+    w: http://www.logcb.com/

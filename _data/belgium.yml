@@ -1,12 +1,20 @@
 name: Belgium
 flag: 🇧🇪
 cities:
-- name: Ghent
-  agencies:
-  - n: Studio Studio
-    w: http://studiostudio.be/
-
 - name: Antwerp
   agencies:
   - n: Vrints-Kolsteren
     w: http://vrints-kolsteren.com/
+
+- name: Brussels
+  agencies:
+  - n: Face to Face design
+    w: http://www.facetofacedesign.com/
+  - n: Base Design
+    w: https://basedesign.com
+    i: yes
+
+- name: Ghent
+  agencies:
+  - n: Studio Studio
+    w: http://studiostudio.be/

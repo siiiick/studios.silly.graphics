@@ -1,6 +1,11 @@
 name: France
 flag: 🇫🇷
 cities:
+- name: Bordeaux
+  agencies:
+  - n: Bureau Parade
+    w: http://bureauparade.com/
+
 - name: Paris
   agencies:
   - n: b.a.-ba
@@ -28,6 +33,30 @@ cities:
     w: http://regularswitch.com.br/
   - n: Pilote
     w: http://piloteparis.com/
+  - n: Hic et Nunc
+    w: http://www.hicetnunc-studio.fr/
+  - n: groupe CCC
+    w: http://www.groupeccc.com/
+    i: yes
+  - n: Graphéine
+    w: https://www.grapheine.com
+  - n: ÉricandMarie
+    w: https://www.ericandmarie.com
+  - n: E+K
+    w: http://www.e-k.fr/
+  - n: Des Signes
+    w: http://www.des-signes.fr/
+    i: yes
+  - n: Chevalvert
+    w: http://chevalvert.fr/
+  - n: Avant:post
+    w: http://www.avantpost.fr/
+  - n: Adulte Adulte
+    w: http://www.adulte-adulte.fr/
+  - n: ACMÉ
+    w: http://acme-paris.com/
+  - n: ABM Studio
+    w: http://www.abm-studio.com/
 
 - name: Lyon
   agencies:
@@ -35,6 +64,8 @@ cities:
     w: http://www.cataloguestudio.fr/
   - n: Regularswitch
     w: http://regularswitch.com.br/
+  - n: Graphéine
+    w: https://www.grapheine.com
 
 - name: Nantes
   agencies:

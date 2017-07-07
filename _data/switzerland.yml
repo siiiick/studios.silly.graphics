@@ -1,6 +1,37 @@
 name: Switzerland
 flag: 🇨🇭
 cities:
+- name: Balerna # municipality
+  agencies:
+  - n: CCRZ
+    w: http://www.ccrz.ch/
+
+- name: Basel
+  agencies:
+  - n: Claudiabasel
+    w: http://claudiabasel.ch/
+  - n: Prolog
+    w: http://prolog.work/
+  - n: Ludovic Balland Typography Cabinet
+    w: http://www.ludovic-balland.com/
+
+- name: Carouge
+  agencies:
+  - n: Neo Neo
+    w: http://www.neoneo.ch/
+
+- name: Chiasso # municipality
+  agencies:
+  - n: RM&CO
+    w: http://rossimazzei.com/
+    i: yes
+
+- name: Geneva
+  agencies:
+  - n: Base Design
+    w: https://basedesign.com
+    i: yes
+
 - name: La Chaux-de-Fonds
   agencies:
   - n: SUPERO
@@ -11,6 +42,15 @@ cities:
   - n: Studio Feixen
     w: http://www.studiofeixen.ch/
     i: yes
+
+- name: St. Gallen
+  agencies:
+  - n: Bänziger Hug
+    w: http://www.baenziger-hug.com/
+  - n: Bureau Collective
+    w: http://www.bureaucollective.ch/
+  - n: Die Gestalter
+    w: http://www.gestalter.ch/
 
 - name: Zurich
   agencies:
@@ -29,19 +69,6 @@ cities:
     w: https://raffinerie.com
   - n: Studio NOI
     w: http://studio-noi.ch/
-
-- name: St. Gallen
-  agencies:
-  - n: Bänziger Hug
-    w: http://www.baenziger-hug.com/
-  - n: Bureau Collective
-    w: http://www.bureaucollective.ch/
-  - n: Die Gestalter
-    w: http://www.gestalter.ch/
-
-- name: Basel
-  agencies:
-  - n: Claudiabasel
-    w: http://claudiabasel.ch/
-  - n: Prolog
-    w: http://prolog.work/
+  - n: studio marcus kraft
+    w: http://www.marcuskraft.net/
+    i: yes

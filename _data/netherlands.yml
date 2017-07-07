@@ -12,6 +12,8 @@ cities:
   - n: The Rodina
     w: http://www.therodina.com/
     i: yes
+  - n: Meeusontwerpt
+    w: http://www.meeusontwerpt.nl/
 
 - name: Deventer
   agencies:

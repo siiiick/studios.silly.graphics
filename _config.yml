@@ -1,7 +1,8 @@
 title: A Creative Practice
 email: buttface@jackf.me
-description: A catalog of creative agencies/studios/consultancies/firms.
-url: https://agencies.silly.graphics
+description: >
+  An international directory of graphic design agencies/studios/consultancies/firms.
+# url: https://agencies.silly.graphics
 github_url: https://github.com/jckfa/repo.git
 timezone: Etc/UTC
 
