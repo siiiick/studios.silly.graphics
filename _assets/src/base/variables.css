@@ -1,9 +1,15 @@
 
 :root {
   --foreground: #444;
+  --background: white;
   --meta: #999;
   --highlight: LightSalmon;
   --border: #ddd;
+
+  /*--foreground: #aaa;
+  --background: black;
+  --meta: #555;
+  --border: #222;*/
 
   --simple-fade: ease-in-out;
 
