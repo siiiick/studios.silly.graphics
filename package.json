@@ -1,7 +1,7 @@
 {
   "name": "studios-silly-graphics",
   "version": "1.0.0",
-  "description": "An international directory of graphic design studios/agencies/consultancies/firms",
+  "description": "An international directory of graphic design studios",
   "main": "gulpfile.js",
   "repository": {
     "type": "git",
