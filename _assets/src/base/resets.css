@@ -48,19 +48,21 @@ a {
 html {
   font: 100%/1 var(--sans);
   color: var(--meta);
-  background-color: var(--background);
 
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
   text-rendering: optimizeLegibility;
+
+  height: 100vh;
+  background: linear-gradient(to bottom, rgba(138, 43, 226, 0.05) 0%, transparent 100%) no-repeat;
 }
 
 ::-moz-selection {
   color:            var(--foreground);
-  background-color: var(--highlight);
+  background-color: rgba(138, 43, 226, 0.2);
 }
 
 ::selection {
   color:            var(--foreground);
-  background-color: var(--highlight);
+  background-color: rgba(138, 43, 226, 0.2);
 }
