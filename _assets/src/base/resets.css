@@ -53,8 +53,8 @@ html {
   -moz-osx-font-smoothing: grayscale;
   text-rendering: optimizeLegibility;
 
-  height: 100vh;
-  background: linear-gradient(to bottom, rgba(138, 43, 226, 0.05) 0%, transparent 100%) no-repeat;
+  /*height: 100vh;*/
+  /*background: linear-gradient(to bottom, rgba(138, 43, 226, 0.05) 0%, transparent 100%) no-repeat;*/
 }
 
 ::-moz-selection {
