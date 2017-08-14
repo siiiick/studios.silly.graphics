@@ -12,12 +12,11 @@
 <footer class="site__footer uppercase">
   <ul class="site__footer__items">
     <li>
-      {{ countries | size }} countries,
-      {{ agency_count | divided_by: 3 }} agencies
+      {{ agency_count }} agencies / {{ countries | size }} countries
     </li>
 
     <li>
-      Last updated: {{ "now" | date: "%-d %b %Y" }}
+      UP/ {{ "now" | date: "%-d %b %Y" }}
     </li>
   </ul>
 </footer>

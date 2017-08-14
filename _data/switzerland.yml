@@ -58,6 +58,7 @@ cities:
     w: http://afrika.to/
   - n: Atlas Studio
     w: https://www.atlasstudio.ch
+    i: yes
   - n: Badesaison
     w: http://www.badesaison.ch/
   - n: Offshore Studio

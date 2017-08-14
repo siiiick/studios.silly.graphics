@@ -1,18 +1,18 @@
 {
   "name": "studios-silly-graphics",
   "version": "1.0.0",
-  "description": "Design agency archive.",
+  "description": "An international directory of graphic design studios/agencies/consultancies/firms",
   "main": "gulpfile.js",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/jckfa/silly.graphics.git"
+    "url": "git+https://github.com/jckfa/studios.silly.graphics.git"
   },
   "author": "Jack Halten Fahnestock",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/jckfa/silly.graphics/issues"
+    "url": "https://github.com/jckfa/studios.silly.graphics/issues"
   },
-  "homepage": "https://github.com/jckfa/silly.graphics#readme",
+  "homepage": "https://github.com/jckfa/studios.silly.graphics#readme",
   "devDependencies": {
     "browser-sync": "*",
     "gulp": "*",

@@ -1,6 +1,13 @@
 name: Australia
 flag: 🇦🇺
 cities:
+- name: Adelaide
+  agencies:
+  - n: Studio Band
+    w: https://studioband.com.au/
+  - n: Confetti
+    w: http://confettistudio.co/
+
 - name: Melbourne
   agencies:
   - n: Public Office
@@ -15,8 +22,32 @@ cities:
     i: yes
   - n: Studio Brave
     w: http://studiobrave.com.au/
+  - n: A Friend of Mine
+    w: http://afom.com.au/
+    i: yes
+  - n: Studio Hi Ho
+    w: http://www.studiohiho.com/
+  - n: Maud
+    w: http://maud.com.au/
+  - n: Mildred & Duck
+    w: http://mildredandduck.com/
+  - n: Round
+    w: http://round.com.au/
+  - n: Tin & Ed
+    w: http://www.tinanded.com.au/
 
 - name: Sydney
   agencies:
   - n: Co-Partnership
     w: http://co-partnership.com/
+  - n: Maud
+    w: http://maud.com.au/
+  - n: Design by Toko
+    w: http://designbytoko.com/
+  - n: Garbett
+    w: http://garbett.com.au/
+    i: yes
+  - n: M35
+    w: http://m35.com.au/
+  - n: Zé Studio
+    w: http://ze-studio.com/

@@ -40,8 +40,8 @@ a {
 
   @media (--w-50) {
     a[href^="http"]:hover {
+      color: var(--highlight);
       cursor: alias;
-      text-decoration: line-through;
     }
   }
 

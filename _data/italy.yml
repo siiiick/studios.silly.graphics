@@ -1,11 +1,17 @@
 name: Italy
 flag: 🇮🇹
 cities:
+- name: Bolzano
+  agencies:
+  - n: Studio Mut
+    w: http://studiomut.com/
+    i: yes
+
 - name: Como
   agencies:
   - n: CCRZ
     w: http://www.ccrz.ch/
-    
+
 - name: Rome
   agencies:
   - n: Mjölk

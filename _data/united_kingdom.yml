@@ -49,11 +49,15 @@ cities:
     i: yes
   - n: Studio Thomas
     w: https://studiothomas.co.uk
+  - n: Pavilion
+    w: http://pavilion.studio/
 
 - name: Leads
   agencies:
   - n: Hungry Sandwich Club
     w: http://hungrysandwich.club/
+  - n: Build
+    w: http://studio.build/
 
 - name: Manchester
   agencies:

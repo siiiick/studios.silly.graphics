@@ -2,7 +2,7 @@
 layout: default
 permalink: /
 order: 1
-title: F57&
+title: index
 ---
 
 {%- assign countries = site.data -%}
@@ -10,7 +10,9 @@ title: F57&
   {%- for country in countries -%}
   {%- assign cities = country[1].cities | uniq | sort: "name" -%}
   <li class="country y-spacing">
-    <div class="country-name">
+    <div class="country-name" id="{{ country[1].name
+                                     | downcase
+                                     | replace: " ", "_" }}">
       {{ country[1].flag }} {{ country[1].name }} {{ country[1].flag }}
     </div>
 
@@ -25,9 +27,7 @@ title: F57&
           <li class="agency">
             <div class="agency-name">
               <a href="{{ agency.w }}" target="_blank">
-                {%- if agency.i -%}*{%- endif -%}
                 {{ agency.n }}
-                {%- if agency.i -%}*{%- endif -%}
               </a>
             </div>
           </li>
@@ -43,6 +43,6 @@ title: F57&
 </ul>
 
 
-<div class="legend small">
+<!-- <div class="legend small">
   <p>*offers internships*</p>
-</div>
+</div> -->

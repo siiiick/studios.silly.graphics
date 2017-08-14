@@ -22,6 +22,12 @@ cities:
   - n: Open Studio
     w: http://www.open-studio.nl/
 
+- name: Rotterdam
+  agencies:
+  - n: Studio Dumbar
+    w: http://studiodumbar.com/
+    i: yes
+
 - name: The Hague
   agencies:
   - n: papa

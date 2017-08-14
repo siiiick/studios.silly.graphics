@@ -1,9 +1,8 @@
-title: A Creative Practice
+title: gd studios
 email: buttface@jackf.me
 description: >
   An international directory of graphic design agencies/studios/consultancies/firms.
-# url: https://agencies.silly.graphics
-github_url: https://github.com/jckfa/repo.git
+url: https://studios.silly.graphics
 timezone: Etc/UTC
 
 markdown: kramdown

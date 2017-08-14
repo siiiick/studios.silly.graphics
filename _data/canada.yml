@@ -11,6 +11,12 @@ cities:
   - n: LOG Creative Bureau
     w: http://www.logcb.com/
 
+- name: Toronto
+  agencies:
+  - n: Concrete
+    w: http://concrete.ca/
+    i: yes
+
 - name: Vancouver
   agencies:
   - n: Glasfurd & Walker

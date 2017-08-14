@@ -56,6 +56,16 @@ cities:
   - n: 44flavours
     w: http://www.44flavours.com/
     i: yes
+  - n: EST.1982
+    w: http://www.est1982.co/
+  - n: Any Studio
+    w: http://any.studio/
+
+- name: Frankfurt
+  agencies:
+  - n: Bureau Sandra Doeller
+    w: http://www.sandradoeller.com/
+    i: yes
 
 - name: Leipzig
   agencies:

@@ -3,12 +3,13 @@
   --foreground: #444;
   --background: white;
   --meta: #999;
-  --highlight: LightSalmon;
+  --highlight: blueViolet;
   --border: #ddd;
 
   /*--foreground: #aaa;
   --background: black;
   --meta: #555;
+  --highlight: LightSalmon;
   --border: #222;*/
 
   --simple-fade: ease-in-out;
@@ -16,12 +17,20 @@
   /*--gutter: 0.25em;*/
   /*--target-area: 0.8em;*/
 
-  --sans: "mallory-book",
-          BlinkMacSystemFont,
+  --sans: BlinkMacSystemFont,
           -apple-system,
-          "roboto",
+          "helvetica neue",
+          helvetica,
           arial,
           sans-serif;
+
+  --mono: "SFMono-Light",
+          "input mono",
+          Consolas,
+          "Liberation Mono",
+          Menlo,
+          Courier,
+          monospace
 }
 
 @custom-media --w-20  screen and (width >= 20rem);

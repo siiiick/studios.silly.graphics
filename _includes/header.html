@@ -1,6 +1,6 @@
 <header class="site__header">
   <ul class="site__nav flex-x flex-justify">
-    {%- assign pages = site.html_pages | sort: "order" -%}
+    <!-- {%- assign pages = site.html_pages | sort: "order" -%}
     {%- for p in pages -%}
     {%- if p.order -%}
     <li>
@@ -9,6 +9,21 @@
       </a>
     </li>
     {%- endif -%}
+    {%- endfor -%} -->
+
+    <!-- <li>
+      <a href="/">{{ site.title }}</a>
+    </li>
+
+    <li>agencies+studios+consultancies+firms</li> -->
+
+    {%- assign countries = site.data -%}
+    {%- for country in countries -%}
+    <li>
+      <a href="#{{ country[1].name | downcase | replace: " ", "_" }}">
+        {{ country[1].flag }}
+      </a>
+    </li>
     {%- endfor -%}
   </ul>
 </header>

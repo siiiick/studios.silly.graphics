@@ -31,6 +31,15 @@ cities:
   - n: Franklyn
     w: http://quitefranklyn.com/
     i: yes
+  - n: mgmt
+    w: http://mgmtdesign.com/
+  - n: Athletics
+    w: http://athleticsnyc.com/
+  - n: Doubleday & Cartwright
+    w: http://doubledayandcartwright.com/
+    i: yes
+  - n: ETC
+    w: http://etc-nyc.com/
 
 - name: Cambridge, MA
   agencies:
@@ -75,6 +84,13 @@ cities:
     w: http://weareplural.com/
   - n: Chandelier Creative
     w: https://www.chandeliercreative.com
+  - n: EST.1982
+    w: http://www.est1982.co/
+  - n: Doubleday & Cartwright
+    w: http://doubledayandcartwright.com/
+    i: yes
+  - n: Folder Studio
+    w: http://folderstudio.com/
 
 - name: Nashville, TN
   agencies:
@@ -118,6 +134,14 @@ cities:
     i: yes
   - n: RoAndCo
     w: http://www.roandcostudio.com/
+  - n: EST.1982
+    w: http://www.est1982.co/
+  - n: Chermayeff & Geismar & Haviv
+    w: http://www.cghnyc.com/
+  - n: Work-Order
+    w: http://www.work-order.co/
+  - n: Everything Studio
+    w: http://everythingstudio.com/
 
 - name: Palo Alto
   agencies:
